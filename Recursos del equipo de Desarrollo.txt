@@ -1,0 +1,30 @@
+Equipo de Desarrollo
+---------------------------------------------------
+-James Manuel Puma Carhuachin
+-Joseph Danilo Santillan De La cruz
+-Antony Cayahue Valverde
+-Axl Paul Evangelista Gomez
+-Luis Enrique Ayllon Angulo
+
+---------------------------------------------------
+Ingresamos a la pagina Rapid API para obtener la API Shazam
+https://rapidapi.com/apidojo/api/shazam
+
+Utilizamos insomnia para probar el api
+https://insomnia.rest/download
+
+Obtuvimos informacion por videos
+---------------------------------------------------
+https://youtu.be/y90U_ihLnZ0
+
+https://youtu.be/I1cpb0tYV74
+
+---------------------------------------------------
+Ofrecía una ámplia variedad de funciones destinadas a los detalles de las canciones. 
+Pero al final no pude implementarlo ya que su página no presentaba una idea clara de cómo utilizarlo
+
+https://developers.deezer.com/api
+---------------------------------------------------
+también investigué sobre la configuración de red ya que mi parte del proyecto presentaba errores relacionados a esto
+
+https://developer.android.com/training/articles/security-config?hl=es-419
